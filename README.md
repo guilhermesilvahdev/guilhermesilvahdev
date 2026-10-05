@@ -1,11 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme H. Silva! 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor Full Stack em formação | Apaixonado por transformar ideias em código</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermesilvahdev&color=blueviolet&style=for-the-badge" alt="Visualizações do perfil" />
+  <em>Desenvolvedor Full Stack em formação</em>
 </p>
 
 ---
