@@ -47,14 +47,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermesilvahdev/guilhermesilvahdev/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha de contribuições" />
-</p>
-
----
-
 ## 📌 Projeto em Destaque
 
 <p align="center">
