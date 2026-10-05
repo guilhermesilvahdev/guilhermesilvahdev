@@ -61,6 +61,8 @@
   <a href="https://github.com/guilhermesilvahdev/Aprendendo-Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesilvahdev&repo=Aprendendo-Python&theme=tokyonight" />
   </a>
+    <a href="https://github.com/guilhermesilvahdev/Biblioteca">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesilvahdev&repo=Biblioteca&theme=tokyonight" />
 </p>
 
 ---
