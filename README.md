@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Guilherme H. Silva! 👋</h1>
 
-<!--
-**guilhermesilvahdev/guilhermesilvahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Desenvolvedor Full Stack em formação | Apaixonado por transformar ideias em código</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guilhermesilvahdev&color=blueviolet&style=for-the-badge" alt="Visualizações do perfil" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ Sobre mim
+
+- 💻 Desenvolvedor **Full Stack** atuando em **Front-end** e **Back-end**
+- 🚀 Atualmente trabalhando com **Java** e **Python**
+- 📚 Aprendendo **C++**, **JavaScript** e desenvolvimento de **APIs**
+- 🛠️ Experiência com **SQL**, **HTML**, **CSS** e **PHP**
+- 🎯 Sempre buscando evoluir e aprender novas tecnologias
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### ✅ Uso atualmente
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,php,mysql" />
+</p>
+
+### 🔜 Aprendendo em breve
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesilvahdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesilvahdev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guilhermesilvahdev&theme=tokyonight&hide_border=false&locale=pt_BR" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guilhermesilvahdev/guilhermesilvahdev/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha de contribuições" />
+</p>
+
+---
+
+## 📌 Projeto em Destaque
+
+<p align="center">
+  <a href="https://github.com/guilhermesilvahdev/Aprendendo-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesilvahdev&repo=Aprendendo-Python&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/guilhermesilvahdev">
+    <img src="https://img.shields.io/badge/GitHub-guilhermesilvahdev-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>✨ "Todo especialista já foi um dia um iniciante." ✨</em>
+</p>
