@@ -74,7 +74,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>✨ "Todo especialista já foi um dia um iniciante." ✨</em>
-</p>
